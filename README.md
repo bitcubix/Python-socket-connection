@@ -1,1 +1,1 @@
-# python_socket_connection
+# Python socket connection server / client
